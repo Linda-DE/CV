@@ -775,11 +775,11 @@ button.btn.btn-theme-color:hover{
     border-bottom: 1px solid #323232;
 }
 .contact-info {
-  width: 350px;
+  width: 320px;
 }
 
 .contact-address{
-  width: 350px;
+  width: 320px;
 }
 .contact-info h4,.contact-address h4 {
     font-family: 'Open Sans', sans-serif;
